@@ -1,0 +1,24 @@
+Postman基础篇：
+Postman使用入门及实践思考
+或许你应该学学Postman
+新手小白初次使用Postman心得
+Postman设置环境变量
+Postman接口测试系列：基本操作总结
+Postman中文文档与Newman集成
+Postman断言对应脚本的解释
+HTTP API接口测试利器PostMan介绍
+接口测试利器——Postman
+Postman接口测试系列：时间戳和加密
+服务端调试利器-Postman教程
+Postman实践篇：
+你应该学会的接口调试神器—Postman高级用法
+用Postman环境变量来提高接口测试效率
+Jenkins+Postman之API全自动化测试流程
+Charles抓包+Postman模拟请求
+Postman常用测试结果验证及使用技巧
+基于Postman实现的HTTP接口监控
+使用Postman测试WebService接口
+使用Postman做API自动化测试
+Postman解决Token传参问题
+Chrome下使用Postman进行接口测试
+用Postman和Python做Post接口功能测试
